@@ -8,9 +8,6 @@ body {
 
 #lead-form-section {
 	height: calc(100vh - 256px);
-	/* max-height: 80vh; */
-	/* overflow-y: hidden; */
-
 }
 
 #product-section {
