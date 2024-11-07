@@ -136,9 +136,11 @@ and healthier, more resilient skin."
 
 1. Clone o repositório
 2. Abra o arquivo `index.html` em um navegador web
+ou acesse diretamente o site: https://blush-daveen-41.tiiny.site/
 3. Teste o formulário com diferentes inputs
 4. Verifique a responsividade em diferentes dispositivos
 5. Explore todas as funcionalidades da página de produto
+
 
 ## ⚠️ Requisitos do Sistema
 
